@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22516a7e-473d-4c55-8137-6747ef72574c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/learningKotlin/udacity/Practice3_5Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learningKotlin/udacity/Practice3_6Kt$main$$inlined$sortedBy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/learningKotlin/udacity/Practice3_6Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/udacity/practice3_5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/udacity/practice3_6.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/META-INF/learningKotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learningKotlin/META-INF/learningKotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learningKotlin/udacity/Practice1Kt.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +34,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hello" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -48,7 +52,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Practice3_4Kt">
+  <component name="RunManager" selected="Kotlin.udacity.Practice4_2Kt">
+    <configuration name="Aquarium.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="learningKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Aquarium.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Practice3_4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="learningKotlin" />
       <option name="VM_PARAMETERS" />
@@ -62,72 +79,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udacity.Practice2_3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udacity.Practice3_5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="learningKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udacity.Practice2_3Kt" />
+      <option name="MAIN_CLASS_NAME" value="udacity.Practice3_5Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="udacity.Practice3_1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="learningKotlin" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udacity.Practice3_1Kt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="udacity.Practice3_2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="learningKotlin" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;12&quot;" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udacity.Practice3_2Kt" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="udacity.Pratcice3_3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="udacity.Practice3_6Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="learningKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="udacity.Pratcice3_3Kt" />
+      <option name="MAIN_CLASS_NAME" value="udacity.Practice3_6Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udacity.Practice4_2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="learningKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="udacity.Practice4_2Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.udacity.Practice2_3Kt" />
-      <item itemvalue="Kotlin.udacity.Practice3_1Kt" />
-      <item itemvalue="Kotlin.udacity.Practice3_2Kt" />
-      <item itemvalue="Kotlin.udacity.Pratcice3_3Kt" />
       <item itemvalue="Kotlin.Practice3_4Kt" />
+      <item itemvalue="Kotlin.udacity.Practice3_5Kt" />
+      <item itemvalue="Kotlin.udacity.Practice3_6Kt" />
+      <item itemvalue="Kotlin.Aquarium.MainKt" />
+      <item itemvalue="Kotlin.udacity.Practice4_2Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.udacity.Practice4_2Kt" />
+        <item itemvalue="Kotlin.Aquarium.MainKt" />
+        <item itemvalue="Kotlin.udacity.Practice3_6Kt" />
+        <item itemvalue="Kotlin.udacity.Practice3_5Kt" />
         <item itemvalue="Kotlin.Practice3_4Kt" />
-        <item itemvalue="Kotlin.udacity.Pratcice3_3Kt" />
-        <item itemvalue="Kotlin.udacity.Practice3_2Kt" />
-        <item itemvalue="Kotlin.udacity.Practice3_1Kt" />
-        <item itemvalue="Kotlin.udacity.Practice2_3Kt" />
       </list>
     </recent_temporary>
   </component>
